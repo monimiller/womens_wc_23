@@ -9,3 +9,8 @@ Needed to a `products` and `upstream` to the notebooks and get the pipeline.yaml
 fixed up.
 
 Ran `ploomber install --create-env` to create a environment
+
+```
+source venv-womens_wc_23/bin/activate
+ploomber build
+```

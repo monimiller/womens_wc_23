@@ -3,3 +3,6 @@
 templates/
 output/
 venv-womens_wc_23
+*.json
+*.tsv
+*.tfevents
