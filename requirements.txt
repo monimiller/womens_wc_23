@@ -1,6 +1,12 @@
 jupyter
 pandas
+numpy
 ploomber
 pyarrow
 scikit-learn
 sklearn-evaluation
+# Stuff from the notebooks
+matplotlib
+seaborn
+plotly
+catboost
