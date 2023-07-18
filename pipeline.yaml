@@ -1,0 +1,17 @@
+tasks:
+    # tasks.get, features and join are python functions
+
+    # fit.py is a script (that you can open as notebook in Jupyter)
+  - source: notebooks/train_model.ipynb
+    name: train_model
+    product:
+        # this output notebook is the model's evaluation report
+        nb: output/nb.html
+        teams_performance: output/team_performance.parquet.gz
+        model: output/model.cbm
+
+    # optional config to hide the code in the output/nb.html report
+    nbconvert_export_kwargs:
+      exclude_input: True
+  
+  - source: notebooks/run_predictions.ipynb
