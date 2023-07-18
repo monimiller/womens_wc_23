@@ -6,7 +6,7 @@ tasks:
     name: train_model
     product:
         # this output notebook is the model's evaluation report
-        nb: output/nb.html
+        nb: output/train_model.ipynb
         teams_performance: output/team_performance.parquet.gz
         model: output/model.cbm
 
@@ -15,3 +15,7 @@ tasks:
       exclude_input: True
   
   - source: notebooks/run_predictions.ipynb
+    name: run_predictions
+    product:
+      nb: output/run_predictions.ipynb
+      predictions: output/predictions.parquet.gz
