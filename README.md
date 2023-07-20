@@ -33,7 +33,7 @@ Data Wrangling, The Analysis, and The Result. Here's the TLDR for each one.
 ## The Introduction
 
 Basically everything you read above, with the added thank you to my favorite
-collaborator @emiller who was an awesome rubber duck to pair program with.
+collaborator [@emiller](https://github.com/Emiller88) who was an awesome rubber duck to pair program with.
 
 ## The Data Wrangling
 
