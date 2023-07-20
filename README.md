@@ -20,7 +20,7 @@ A big thank you and major credit towards [Gustavo
 Santos](https://gustavorsantos.medium.com/predicting-results-and-goals-with-machine-learning-599e99d6e3e0)
 who's project on the men's world cup I then recreated for the women. You can
 view
-his initial work (here)[https://github.com/gurezende/World_Cup_2022/blob/main/Results/FIFA_WorldCup2022.png].
+his initial work [here](https://github.com/gurezende/World_Cup_2022/blob/main/Results/FIFA_WorldCup2022.png).
 
 
 
