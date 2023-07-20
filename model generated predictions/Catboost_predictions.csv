@@ -1,0 +1,66 @@
+,,,,,,,
+,,,,,,,
+Group A,home_team,away_team,away,draw,home,,Group A Winner:
+0,New Zealand,Norway,0.8154342684,0.1672025122,0.01736321941,,Norway
+1,Philippines,Switzerland,0.06020238564,0.008958883755,0.9308387306,,
+2,New Zealand,Philippines,0.0004156012967,0.01398862793,0.9855957708,,Group A Second:
+3,Switzerland,Norway,0.8161925623,0.1812769172,0.002530520586,,New Zealand
+4,Switzerland,New Zealand,0.2307132405,0.5825966584,0.1866901011,,
+5,Norway,Philippines,8.30E-05,0.003750462707,0.9961665428,,
+,,,,,,,
+Group B,home_team,away_team,away,draw,home,,Group B Winner:
+0,Australia,Republic of Ireland,4.38E-07,0.001193110071,0.9988064523,,Canada
+1,Nigeria,Canada,0.9801622326,0.01492894621,0.004908821193,,
+2,Canada,Republic of Ireland,4.41E-06,0.0005993350665,0.9993962566,,Group B Second:
+3,Australia,Nigeria,1.32E-05,0.001891574631,0.998095227,,Australia
+4,Republic of Ireland,Nigeria,0.000973471988,0.002001457014,0.997025071,,
+5,Canada,Australia,0.0001628516197,0.000844533728,0.9989926147,,
+,,,,,,,
+Group C,home_team,away_team,away,draw,home,,Group C Winner*:
+0,Spain,Costa Rica,4.17E-04,0.001819684252,0.9977633468,,Spain
+1,Zambia,Japan,0.9999604356,0.0000319970593,0.000007567371302,,
+2,Japan,Costa Rica,0.0001016084096,0.3547598633,0.6451385283,,Group C Second*:
+3,Spain,Zambia,2.39E-04,0.000362605604,0.9993988459,,Japan
+4,Costa Rica,Zambia,0.0001527601631,0.001528871471,0.9983183684,,
+5,Japan,Spain,0.001486162901,0.5056177866,0.4928960505,,*toss-up - the model would vote spain for scoring more
+,,,,,,,
+,,,,,,,
+Group D,home_team,away_team,away,draw,home,,Group D Winner:
+0,England,Haiti,1.75E-05,0.0001002674738,0.9998822532,,China PR
+1,Denmark,China PR,0.528400527,0.4547741243,0.01682534863,,
+2,England,Denmark,0.165053696,0.7121503759,0.1227959281,,Group D Second*:
+3,China PR,Haiti,1.93E-05,0.000504954863,0.999475738,,England
+4,Haiti,Denmark,0.5913317602,0.4077618625,0.0009063773544,,
+5,China PR,England,0.321040436,0.06985297601,0.609106588,,*toss-up
+,,,,,,,
+Group E,home_team,away_team,away,draw,home,,Group E Winner:
+0,United States,Vietnam,1.18E-06,0.0005620306819,0.9994367877,,United States
+1,Netherlands,Portugal,0.01491720705,0.5110477455,0.4740350474,,
+2,United States,Netherlands,1.67E-06,0.001950629037,0.9980477054,,Group E Second:
+3,Portugal,Vietnam,0.0003345488785,0.0002852521797,0.9993801989,,Portugal
+4,Portugal,United States,0.9998253269,2.39E-05,0.0001507987385,,
+5,Vietnam,Netherlands,0.3015104524,0.5991262424,0.09936330517,,
+,,,,,,,
+Group F,home_team,away_team,away,draw,home,,Group F Winner:
+0,France,Jamaica,1.52E-05,0.002464168018,0.9975206313,,France
+1,Brazil,Panama,1.03E-05,0.006205239625,0.9937844806,,
+2,France,Brazil,0.0001725348265,0.007911077717,0.9919163875,,Group F Second:
+3,Panama,Jamaica,0.004851196349,0.0001172498439,0.9950315538,,Brazil
+4,Panama,France,0.9994240558,0.0002767143736,0.0002992298103,,
+5,Jamaica,Brazil,0.9276803738,0.002427766937,0.06989185931,,
+,,,,,,,
+Group G,home_team,away_team,away,draw,home,,Group G Winner:
+0,Sweden,South Africa,3.32E-06,0.003861787016,0.9961348968,,Sweden
+1,Italy,Argentina,3.99E-05,0.01262003453,0.9873401064,,
+2,Argentina,South Africa,0.0001699005609,0.003603012553,0.9962270869,,Group G Second:
+3,Sweden,Italy,2.76E-05,0.02608833325,0.9738840504,,Italy
+4,South Africa,Italy,0.5325820362,0.1402595497,0.3271584141,,
+5,Argentina,Sweden,0.9999549388,4.20E-05,3.09E-06,,
+,,,,,,,
+Group H,home_team,away_team,away,draw,home,,Group H Winner:
+0,Germany,Morocco,3.67E-05,0.0002066823703,0.9997565924,,Germany
+1,Columbia,South Korea,0.3868755543,0.1072975742,0.5058268714,,
+2,South Korea,Morocco,1.43E-05,0.008192026748,0.9917936627,,Group H Second*:
+3,Germany,Columbia,3.67E-05,0.0002066823703,0.9997565924,,Columbia
+4,South Korea,Germany,0.9990124569,0.0004383026727,0.000549240378,,
+5,Morocco,Columbia,0.002462788724,0.0001193811771,0.9974178301,,*toss-up
