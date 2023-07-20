@@ -1,4 +1,4 @@
-### Welcome to the Women's world cup 2023 Analysis
+## Welcome to the Women's world cup 2023 Analysis
 
 My name is Monica. I'm a data nerd and washed up soccer player who can still
 claim a couple of D3 records to her name. Of course with the world cup I wanted
@@ -24,18 +24,18 @@ his initial work (here)[https://github.com/gurezende/World_Cup_2022/blob/main/Re
 
 
 
-### Monica vs the Machine
+## Monica vs the Machine
 
 I plan to write a four part article series around this - The Introduction, The
 Data Wrangling, The Analysis, and The Result. Here's the TLDR for each one.
 
 
-## The Introduction
+### The Introduction
 
 Basically everything you read above, with the added thank you to my favorite
 collaborator [@emiller](https://github.com/Emiller88) who was an awesome rubber duck to pair program with.
 
-## The Data Wrangling
+### The Data Wrangling
 
 Every project starts with the data wrangling. I found this [Kaggle
 dataset](https://www.kaggle.com/datasets/martj42/womens-international-football-results?select=results.csv),
@@ -44,7 +44,7 @@ years. I also filtered the data to only consider countries that were in the
 world cup. The data was not fully up to date, so I updated the data from any
 international matches including these teams within the last year.
 
-## The Analysis
+### The Analysis
 
 I used the CatBoost algorithm for my predictive analysis. The [train model
 notebook](https://github.com/monimiller/womens_wc_23/blob/main/notebooks/train_model.ipynb)
@@ -62,7 +62,7 @@ folder](https://github.com/monimiller/womens_wc_23/tree/main/model%20generated%2
 Based on the group play predictions, I then ran through all the playoff games
 and built out the full bracket. 
 
-## The Result
+### The Result
 
 Just like I make most decisions, all my predictions were based on my gut. I
 didn't really do as much research as I would have liked, and really just solely
