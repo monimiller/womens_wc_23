@@ -1,0 +1,66 @@
+,,,,
+,,,,
+Group A,home_team,away_team,,Group A Winner:
+0,New Zealand,Norway,,Norway
+1,Philippines,Switzerland,,
+2,New Zealand,Philippines,,Group A Second:
+3,Switzerland,Norway,,New Zealand
+4,Switzerland,New Zealand,,
+5,Norway,Philippines,,
+,,,,
+Group B,home_team,away_team,,Group B Winner:
+0,Australia,Republic of Ireland,,Australia
+1,Nigeria,Canada,,
+2,Canada,Republic of Ireland,,Group B Second:
+3,Australia,Nigeria,,Canada
+4,Republic of Ireland,Nigeria,,
+5,Canada,Australia,,
+,,,,
+Group C,home_team,away_team,,Group C Winner:
+0,Spain,Costa Rica,,Spain
+1,Zambia,Japan,,
+2,Japan,Costa Rica,,Group C Second:
+3,Spain,Zambia,,Japan
+4,Costa Rica,Zambia,,
+5,Japan,Spain,,
+,,,,
+,,,,
+Group D,home_team,away_team,,Group D Winner:
+0,England,Haiti,,England
+1,Denmark,China PR,,
+2,England,Denmark,,Group D Second:
+3,China PR,Haiti,,Denmark
+4,Haiti,Denmark,,
+5,China PR,England,,
+,,,,
+Group E,home_team,away_team,,Group E Winner:
+0,United States,Vietnam,,United States
+1,Netherlands,Portugal,,
+2,United States,Netherlands,,Group E Second:
+3,Portugal,Vietnam,,Portugal
+4,Portugal,United States,,
+5,Vietnam,Netherlands,,
+,,,,
+Group F,home_team,away_team,,Group F Winner:
+0,France,Jamaica,,France
+1,Brazil,Panama,,
+2,France,Brazil,,Group F Second:
+3,Panama,Jamaica,,Brazil
+4,Panama,France,,
+5,Jamaica,Brazil,,
+,,,,
+Group G,home_team,away_team,,Group G Winner:
+0,Sweden,South Africa,,Sweden
+1,Italy,Argentina,,
+2,Argentina,South Africa,,Group G Second:
+3,Sweden,Italy,,Italy
+4,South Africa,Italy,,
+5,Argentina,Sweden,,
+,,,,
+Group H,home_team,away_team,,Group H Winner:
+0,Germany,Morocco,,Germany
+1,Columbia,South Korea,,
+2,South Korea,Morocco,,Group H Second:
+3,Germany,Columbia,,Columbia
+4,South Korea,Germany,,
+5,Morocco,Columbia,,
